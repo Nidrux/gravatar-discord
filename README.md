@@ -15,6 +15,8 @@ You will need to download additional components to work with each of the major b
 
 https://github.com/mozilla/geckodriver/releases/
 
+More info about selenium can be found [here](https://www.npmjs.com/package/selenium-webdriver)
+
 Add your gravatar mail to the config.json file.<br>
 Add your login credentials from discord in credentials.env
 
