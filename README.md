@@ -6,6 +6,7 @@ Upload your gravatar image to discord automatically using selenium.
 ## NOTICE
 ⚠️ THIS IS AGAINST [DISCORD TOS](https://discord.com/terms)! USE AT OWN RISK ⚠️
 </div>
+
 ## INSTALLATION
 
 DOWNLOAD DRIVERS FOR FIREFOX (Geckodriver)
