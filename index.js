@@ -61,9 +61,9 @@ async function setAvatar() {
                         console.log(chalk.green('Avatar has been updated'));
                         setTimeout(async () => {
                             await driver.findElement(By.css('.noticeRegion-1YviSH div div div:nth-of-type(2) button:nth-of-type(2)')).click();
-                            // setTimeout(() => {
-                            //     driver.quit();
-                            // }, 100);
+                            setTimeout(() => {
+                                 driver.quit();
+                             }, 100);
                         }, 500);
                     }, 500);
                 }, 500);
