@@ -1,9 +1,9 @@
+<div align="center">
+<img src="https://storage.nidrux.online/gravtodis.png">
+  
 # gravatar-discord
 Upload your gravatar image to discord automatically using selenium. 
 
-<div align="center">
-  
-## NOTICE
 ⚠️ THIS IS AGAINST [DISCORD TOS](https://discord.com/terms)! USE AT OWN RISK ⚠️
 </div>
 
